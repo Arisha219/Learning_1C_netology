@@ -15,9 +15,9 @@
   ПоказатьПредупреждение(,СтрШаблон("Печать объекта %1 в разработке. Здесь будет команда вывода на принтер",ПараметрКоманды),,"Мы работаем над этим");  
   ```  
 ### 3. Скриншоты
-![Группа команд](Education/03-interface/hw1_2_CommandButton/screenshots/hw1_print_button.png)
-![Сообщение для команды ПечатьНаПринтер](Education/03-interface/hw1_2_CommandButton/screenshots/hw1_print1_msg.png)
-![Сообщение для команды ПечатьСПредпросмотром](Education/03-interface/hw1_2_CommandButton/screenshots/hw1_print2_msg.png)
+![Группа команд](/Education/03-interface/hw1_2_CommandButton/screenshots/hw1_print_button.png)
+![Сообщение для команды ПечатьНаПринтер](/Education/03-interface/hw1_2_CommandButton/screenshots/hw1_print1_msg.png)
+![Сообщение для команды ПечатьСПредпросмотром](/Education/03-interface/hw1_2_CommandButton/screenshots/hw1_print2_msg.png)
 
 
 # Задание 2: Фильтрация сотрудников
@@ -56,9 +56,9 @@
 ```
 
 ### 3. Скриншоты
-![Общий список сотрудников](Education/03-interface/hw1_2_CommandButton/screenshots/hw2_all_employees.png)
-![Уволенные сотрудники](Education/03-interface/hw1_2_CommandButton/screenshots/hw2_dismissed_employees.png)
-![Работающие сотрудники](Education/03-interface/hw1_2_CommandButton/screenshots/hw2_actual_employees.png)
+![Общий список сотрудников](/Education/03-interface/hw1_2_CommandButton/screenshots/hw2_all_employees.png)
+![Уволенные сотрудники](/Education/03-interface/hw1_2_CommandButton/screenshots/hw2_dismissed_employees.png)
+![Работающие сотрудники](/Education/03-interface/hw1_2_CommandButton/screenshots/hw2_actual_employees.png)
 
 ---
 ## Итоги:
