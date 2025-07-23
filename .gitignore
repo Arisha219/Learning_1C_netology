@@ -1,0 +1,23 @@
+# Временные файлы 1С
+*.cfu
+*.log
+*.lst
+*.tmp
+*.dat
+*.mxl
+
+# Служебные папки
+ExtForms/
+ExtReports/
+ExtTemplates/
+ExtСправка/
+*.epf
+*.erf
+
+# Файлы IDE (если используете VSCode и аналоги)
+.vscode/
+.idea/
+
+# Данные тестовых баз
+*.1CD
+*.log
