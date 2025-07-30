@@ -11,8 +11,6 @@ ExtForms/
 ExtReports/
 ExtTemplates/
 ExtСправка/
-*.epf
-*.erf
 
 # Файлы IDE (если используете VSCode и аналоги)
 .vscode/
